@@ -8,6 +8,3 @@ with st.expander("Our Team"):
   st.write("Our mission consists of creating an app that answers all your questions regarding celebrities.")
   st.write("We strive to achieve this by utilizing Machine Learning :)")
   
-with col1:
-    st.header("Chrysler Logo")
-    st.image("file:///C:/Users/Benjamin/Downloads/IMAG2616%20(1).jpg")
