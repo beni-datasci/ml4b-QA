@@ -10,4 +10,4 @@ with st.expander("Our Team"):
   
 with col1:
     st.header("Chrysler Logo")
-    st.image("https://drive.google.com/file/d/1YcyjUePcy3BYlic9eTY0Py-O2ekFn8MR/view?usp=sharing")
+    st.image("https://drive.google.com/file/d/1YcyjUePcy3BYlic9eTY0Py-O2ekFn8MR/view?usp=sharing.jpg")
