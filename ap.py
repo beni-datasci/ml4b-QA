@@ -8,3 +8,5 @@ with st.expander("Our Team & Mission"):
   st.write("Our mission consists of creating an app that answers all your questions regarding celebrities.")
   st.write("We strive to achieve this by utilizing Machine Learning :)")
   
+git lfs install
+git clone https://huggingface.co/datasets/squad_v2
