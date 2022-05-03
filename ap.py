@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np
 st.title('Question Answering')
 st.title('Our Team')
-
+ 
 with st.expander("Our Team"):
-  with st.expander("Benjamin Rattanpal"):
-    st.write("Hello, we are Leon Lang, Jean Louis Fichtner and Loredana Bratu and we create this app as a part of our business informatics course ")
+  st.write("Hello! Our team consists of Frenki Pushaj, Benjamin Rattanpal & Patrik Spindler.")
+  st.write("Our mission consists of creating an app that answers all your questions regarding celebrities.")
+  st.write("We strive to achieve this by utilizing Machine Learning :)")
