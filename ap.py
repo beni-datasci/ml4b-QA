@@ -16,5 +16,9 @@ st.write("Examples from our Dataset")
 
 with st.expander("In what city and state did Beyonce grow up?"):
   st.write("Houston, Texas")
+  st.write("56bf6b0f3aeaaa14008c9601")
 
+with st.expander("When did Beyonce release Dangerously in Love?"):
+  st.write("2003")
+  st.write("ID: 56d43c5f2ccc5a1400d830ac")
   
