@@ -1,5 +1,7 @@
 # Related Work and Projects
 In this file, projects and published papers on the field of "Natural language processing" (NLP) are collected that may be helpful for this project
+## Research
+Research was done using Google, Google Scholar and GitHub
 ## Projects
 https://github.com/ramsrigouthamg/Questgen.ai
 - AI based question generating software.
