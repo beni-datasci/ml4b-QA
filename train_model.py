@@ -52,6 +52,7 @@ if __name__ == '__main__':
     f = open("dev-v2.0.json", encoding="utf-8")
     dev_data = json.loads(f.read())["data"]
     training_data_list = []
+    #copy all training data in a list for the model to understand
     for x in training_data:
         training_data_list.extend(x["paragraphs"])
     #print(training_data_list)
