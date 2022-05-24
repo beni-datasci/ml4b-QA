@@ -5,6 +5,7 @@ import json
 
 #Training routine for BERT based NLP based on SQUAD2.0
 #requieres pytorch with cuda support
+#training data JSON can be found at: https://rajpurkar.github.io/SQuAD-explorer/
 model_checkpoint = "bert-base-cased"
 model_name = "bert-base-cased"
 model_args = QuestionAnsweringArgs()
